@@ -27,6 +27,7 @@ require.config( {
     // PhET libs, uppercase names to identify them in require.js imports.
     // IMPORTANT: DO NOT modify. This file is auto-generated. See documentation at the top.
     AREA_MODEL_ALGEBRA: '.',
+    AREA_MODEL_COMMON: '../../area-model-common/js',
     AXON: '../../axon/js',
     BRAND: '../../brand/' + phet.chipper.brand + '/js',
     DOT: '../../dot/js',
@@ -39,7 +40,10 @@ require.config( {
     SCENERY: '../../scenery/js',
     SCENERY_PHET: '../../scenery-phet/js',
     SUN: '../../sun/js',
-    TANDEM: '../../tandem/js'
+    TANDEM: '../../tandem/js',
+    TWIXT: '../../twixt/js',
+    VEGAS: '../../vegas/js',
+    VIBE: '../../vibe/js'
   },
 
   // optional cache buster to make browser refresh load all included scripts, can be disabled with ?cacheBuster=false

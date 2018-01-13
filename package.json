@@ -11,6 +11,12 @@
   },
   "phet": {
     "requirejsNamespace": "AREA_MODEL_ALGEBRA",
+    "phetLibs": [
+      "area-model-common",
+      "twixt",
+      "vegas",
+      "vibe"
+    ],
     "runnable": true,
     "supportedBrands": [
       "phet",
