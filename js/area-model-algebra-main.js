@@ -13,7 +13,6 @@ define( function( require ) {
   var GenericScreen = require( 'AREA_MODEL_COMMON/screens/GenericScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
-  var VariablesGameChallengesScreen = require( 'AREA_MODEL_COMMON/screens/VariablesGameChallengesScreen' );
   var VariablesGameScreen = require( 'AREA_MODEL_COMMON/screens/VariablesGameScreen' );
   var VariablesScreen = require( 'AREA_MODEL_COMMON/screens/VariablesScreen' );
 
@@ -37,8 +36,7 @@ define( function( require ) {
       new ExploreScreen(),
       new GenericScreen(),
       new VariablesScreen(),
-      new VariablesGameScreen(),
-      new VariablesGameChallengesScreen(),
+      new VariablesGameScreen()
     ], simOptions );
     sim.start();
   } );
