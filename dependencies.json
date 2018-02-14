@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-algebra 1.0.0-dev.5 Mon Feb 12 2018 16:13:16 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-algebra 1.0.0-dev.6 Wed Feb 14 2018 01:07:54 GMT-0700 (Mountain Standard Time)",
   "area-model-algebra": {
-    "sha": "b2b75ee99d6b2bd99ebd889a0b559e1e69ef19aa",
+    "sha": "b33aa0682268b158c2a07f489fe5d540ace1b098",
     "branch": "master"
   },
   "area-model-common": {
-    "sha": "f439cd5d120d86cf400976d7eb4cf0596e08cab6",
+    "sha": "9aa8a41b10eeb3da4729a61064feede7823a392b",
     "branch": "master"
   },
   "assert": {
@@ -41,7 +41,7 @@
     "branch": "master"
   },
   "phet-io": {
-    "sha": "3d889b6b4f5e073bab5acfd4f6ae511aacfaa1fa",
+    "sha": "e6f69df5c3096b4eedeaaf50eb19b1920d5fbaa4",
     "branch": "master"
   },
   "phet-io-website": {
@@ -77,7 +77,7 @@
     "branch": "master"
   },
   "scenery": {
-    "sha": "8d5f11b0226c066ae64f7f42d2c3b7ae8625d7d4",
+    "sha": "849b59e2d5772da81a8e6ae4f99186b7c06a1377",
     "branch": "master"
   },
   "scenery-phet": {
@@ -93,7 +93,7 @@
     "branch": "master"
   },
   "tandem": {
-    "sha": "dbd18ffbc26a9efeb6ca1a24b694204af2903521",
+    "sha": "4f19619d41dede076eecd2a63cd8620756a8eab6",
     "branch": "master"
   },
   "twixt": {
