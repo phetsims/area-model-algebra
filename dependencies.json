@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-algebra 1.0.0-dev.9 Wed Mar 14 2018 19:29:22 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.0.0-dev.10 Wed Mar 14 2018 19:43:37 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "b5891707a3f17d10c2b7f4ed4e7b31e3860d3e19",
+    "sha": "f06500eeb6c1610058108d87ddde8c8cec1c2286",
     "branch": "master"
   },
   "area-model-common": {
-    "sha": "a5699908dab2e27aabbe33c2372d0201a600ac4d",
+    "sha": "060c29a92d8f4e57734b5b2dcde242e272c3d05f",
     "branch": "master"
   },
   "assert": {
