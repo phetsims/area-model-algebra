@@ -1,1 +1,1 @@
-TODO implementation overview
+See implementation-notes.md from area-model-common

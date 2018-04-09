@@ -1,1 +1,1 @@
-TODO model description
+See model.md from area-model-common
