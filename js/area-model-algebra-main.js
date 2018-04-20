@@ -24,7 +24,7 @@ define( function( require ) {
       leadDesign: 'Amy Hanson, Amanda McGarry',
       softwareDevelopment: 'Jonathan Olson',
       team: 'Karina Hensberry, Kathy Perkins, Ariel Paul, Susan Miller',
-      qualityAssurance: 'Steele Dalton, Ethan Johnson, Liam Mulhall',
+      qualityAssurance: 'Steele Dalton, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Clara Wilson',
       graphicArts: 'Amanda McGarry, Diana Lopez Tavares, Mariah Hermsmeyer'
     }
   };
