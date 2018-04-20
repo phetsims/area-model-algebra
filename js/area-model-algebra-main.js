@@ -23,9 +23,9 @@ define( function( require ) {
     credits: {
       leadDesign: 'Amy Hanson, Amanda McGarry',
       softwareDevelopment: 'Jonathan Olson',
-      team: 'Karina Hensberry, Kathy Perkins, Ariel Paul, Susan Miller',
+      team: 'Karina Hensberry, Susan Miller, Ariel Paul, Kathy Perkins',
       qualityAssurance: 'Steele Dalton, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Clara Wilson',
-      graphicArts: 'Amanda McGarry, Diana Lopez Tavares, Mariah Hermsmeyer'
+      graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana Lopez Tavares'
     }
   };
 
