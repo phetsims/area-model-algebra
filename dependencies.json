@@ -1,12 +1,12 @@
 {
-  "comment": "# area-model-algebra 1.0.0-rc.1 Fri Apr 20 2018 20:24:17 GMT-0600 (MDT)",
+  "comment": "# area-model-algebra 1.0.0-rc.1 Mon Apr 23 2018 18:51:27 GMT-0600 (MDT)",
   "area-model-algebra": {
-    "sha": "3e1d5225689770bfadb911948097784a149b5d80",
+    "sha": "854cce7e92826df93d69c3ff9a2462d226948645",
     "branch": "1.0"
   },
   "area-model-common": {
-    "sha": "efc46b1838db752646880b86562b84bcc97842b2",
-    "branch": "HEAD"
+    "sha": "48fa1b702629323a44e95adcaead745b94b1bbe7",
+    "branch": "area-model-algebra-1.0"
   },
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
@@ -65,8 +65,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "fc09a506c5b54ae8f125b62ae6b74acdf204db26",
-    "branch": "HEAD"
+    "sha": "698c963917b7591fb79c39648e6cd2672277e4c5",
+    "branch": "area-model-algebra-1.0"
   },
   "scenery-phet": {
     "sha": "f1ace1bbbe9f759b4415ca9bacd28d3d3e76a782",
