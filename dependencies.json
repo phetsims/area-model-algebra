@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.0.0 Tue Jul 24 2018 16:33:39 GMT-0600 (MDT)",
+  "comment": "# area-model-algebra 1.0.1-rc.1 Tue Jul 24 2018 20:42:41 GMT-0600 (MDT)",
   "area-model-algebra": {
-    "sha": "35a6294b15f37d4d445fdbfb5e5afa0fec33d389",
+    "sha": "b7515b2f967bf46bfe6f2c6967ffb2a07e3f78db",
     "branch": "1.0"
   },
   "area-model-common": {
@@ -94,6 +94,6 @@
   },
   "vibe": {
     "sha": "3f0b440ac6143f67a51101d563dfe127be4dd021",
-    "branch": "area-model-algebra-1.0"
+    "branch": "HEAD"
   }
 }
