@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.0.1 Wed Aug 08 2018 12:43:08 GMT-0600 (MDT)",
+  "comment": "# area-model-algebra 1.0.1 Thu Aug 09 2018 20:19:49 GMT-0600 (MDT)",
   "area-model-algebra": {
-    "sha": "67afaa46fb307452c89dcb2d8397b44e26918e6b",
+    "sha": "69be4951c02029431a3cf9226577100cf95bed9e",
     "branch": "1.0"
   },
   "area-model-common": {
@@ -65,8 +65,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "81fcd1a88fb1df26471636cead7c9ef1ad05d8ea",
-    "branch": "HEAD"
+    "sha": "1dbb7f58142989cc4b8cca8bc69c99eaf3b51759",
+    "branch": "area-model-algebra-1.0"
   },
   "scenery-phet": {
     "sha": "f1ace1bbbe9f759b4415ca9bacd28d3d3e76a782",
