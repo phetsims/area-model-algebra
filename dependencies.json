@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.1.0-rc.1 Mon Dec 03 2018 12:17:04 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-algebra 1.1.0-rc.2 Mon Dec 03 2018 12:23:30 GMT-0700 (Mountain Standard Time)",
   "area-model-algebra": {
-    "sha": "f1b5b0d4c33bc6e5ffab36c79d8b11dcb2058d65",
+    "sha": "15eeb7334abc2761a866d06f3a786c5173e3b764",
     "branch": "1.1"
   },
   "area-model-common": {
@@ -90,7 +90,7 @@
   },
   "tandem": {
     "sha": "c14fdea756844982bb67eb715f7c6df12c1658b9",
-    "branch": "area-model-algebra-1.1"
+    "branch": "HEAD"
   },
   "twixt": {
     "sha": "3ef1cdc0750f90657ee3971d115a377a293ee852",
