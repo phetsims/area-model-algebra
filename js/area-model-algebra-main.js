@@ -25,7 +25,7 @@ define( function( require ) {
       softwareDevelopment: 'Jonathan Olson',
       team: 'Karina Hensberry, Susan Miller, Ariel Paul, Kathy Perkins, Oliver Nix',
       qualityAssurance: 'Steele Dalton, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Clara Wilson',
-      graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana Lopez Tavares'
+      graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana López Tavares'
     }
   };
 
