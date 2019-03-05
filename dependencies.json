@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.0.3 Tue Nov 06 2018 10:34:13 GMT-0700 (MST)",
+  "comment": "# area-model-algebra 1.0.3 Tue Mar 05 2019 14:20:30 GMT-0500 (EST)",
   "area-model-algebra": {
-    "sha": "147775ba346c9a66368cef68ec9bc80d2a6c877b",
+    "sha": "29f5d9896dea25c094c9af82b5aabdfcadaae3fb",
     "branch": "1.0"
   },
   "area-model-common": {
@@ -17,8 +17,8 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "89d28f6309a83eb51b6c1fc0130e76ad7935f09e",
-    "branch": "HEAD"
+    "sha": "e3915f1ea98e1cc6ab5f4ea601cba0d8b0b51ed7",
+    "branch": "area-model-algebra-1.0"
   },
   "chipper": {
     "sha": "d08c83778a4dc814dbb852869edc12fcc1e6fd64",
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "e4a5f87ccb94cd187dd94259d4c5b7e2881da872",
-    "branch": "HEAD"
+    "sha": "38b0039931f53195527ddfd4419fbf835550a5ea",
+    "branch": "area-model-algebra-1.0"
   },
   "kite": {
     "sha": "b607147875dca2c350235f96d4f5546617bc6e4b",
