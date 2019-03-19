@@ -1,12 +1,12 @@
 {
-  "comment": "# area-model-algebra 1.1.0-rc.2 Tue Dec 18 2018 12:07:24 GMT-0700 (MST)",
+  "comment": "# area-model-algebra 1.1.0-rc.2 Tue Mar 19 2019 13:50:50 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "39af93b0087a74ac7ac74705b184c4a409bee740",
+    "sha": "50cd821752ce73793394077eb75439791fdb0aa8",
     "branch": "1.1"
   },
   "area-model-common": {
     "sha": "1f66b1367629b6f8e6da61ce6c93f35c5ff35775",
-    "branch": "area-model-algebra-1.1"
+    "branch": "HEAD"
   },
   "assert": {
     "sha": "928741cfc8fe804334d5b35292140314511f8678",
@@ -21,8 +21,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "0097c5acd715d88dd12201b2d52690068afa3f0c",
-    "branch": "HEAD"
+    "sha": "0b9b6c00c0b1c2fd183a47cac8422ea988cdedfb",
+    "branch": "area-model-algebra-1.1"
   },
   "dot": {
     "sha": "266d3b7a2e9131071db77afa45da8440f1e82e9b",
@@ -64,6 +64,10 @@
     "sha": "869b25613e25f39455d71bc321b581502c4658df",
     "branch": "HEAD"
   },
+  "phetmarks": {
+    "sha": "9a3495ef38a5d550ef7892fea746c636f6286e91",
+    "branch": "HEAD"
+  },
   "query-string-machine": {
     "sha": "c4d4a81e62cde792bd872f1a5b55813fe2a9c3fc",
     "branch": "HEAD"
@@ -103,9 +107,5 @@
   "vibe": {
     "sha": "474ae7648c9d36400907c59236ddb04dac8cc1bc",
     "branch": "HEAD"
-  },
-  "phetmarks": {
-    "branch": "master",
-    "sha": "9a3495ef38a5d550ef7892fea746c636f6286e91"
   }
 }
