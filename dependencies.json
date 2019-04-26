@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.1.0-rc.2 Fri Mar 29 2019 14:30:43 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.1.0-rc.2 Fri Apr 26 2019 13:30:37 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "241699977e4f212cde98aba9fccbdada5b574798",
+    "sha": "a694cfdc3cecc4e9a06f4a82d6d4beff39c079b0",
     "branch": "1.1"
   },
   "area-model-common": {
@@ -21,7 +21,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "802039cf64f193599e5a8ecc84b88ffdcd0b9f58",
+    "sha": "1b2b69ddd1ef65dbca855077aa4779f35e2c5ea3",
     "branch": "area-model-algebra-1.1"
   },
   "dot": {
