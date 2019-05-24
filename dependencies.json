@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.0-rc.1 Fri May 10 2019 13:57:15 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.2.0-rc.1 Fri May 24 2019 14:16:03 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "77e5050d9c4ba693b5c3ec5fa5b70bc4d0737832",
+    "sha": "0a9026b263d61ceb2bb23d0918a58cadbe0db532",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -21,8 +21,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "f38031454c5b279f0579557b5546cb04f363166d",
-    "branch": "HEAD"
+    "sha": "5b276518df6eb936574600ba9597f4bb7120411e",
+    "branch": "area-model-algebra-1.2"
   },
   "dot": {
     "sha": "1faeedbac0bf5f79d653d591e370e9a551082711",
@@ -42,18 +42,6 @@
   },
   "phet-io": {
     "sha": "781c86ab3d4cf355869891a07049a002b16e946e",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-classroom-activity": {
-    "sha": "248958109c8d3b73b5f9d6c31015b2c8b5016571",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-hookes-law-energy": {
-    "sha": "3ea0d43712de26832a841086365544fa930fe458",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-lab-book": {
-    "sha": "e5309c0d655079dede0616b5aa637e624e978242",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
