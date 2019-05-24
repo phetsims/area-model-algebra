@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.0.5 Wed Apr 24 2019 13:49:12 GMT-0800 (Alaskan Daylight Time)",
+  "comment": "# area-model-algebra 1.0.5 Fri May 24 2019 14:14:46 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "7318f0f85b91833ad6f74f23433f4633efe441e2",
+    "sha": "04bacebe101e584b9315d39fe5748146cf0d9c4f",
     "branch": "1.0"
   },
   "area-model-common": {
@@ -21,8 +21,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "4d838b01434fcd050485db587f1e125bb39378d5",
-    "branch": "HEAD"
+    "sha": "c114777ec6448c367f52e59a0c4b0498a9a86b70",
+    "branch": "area-model-algebra-1.0"
   },
   "dot": {
     "sha": "62f0aa425038a03977362beea8e2310d91feca68",
@@ -42,14 +42,6 @@
   },
   "phet-io": {
     "sha": "3a9c8ba87a85d5605c63c406454a45322eb145fb",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-classroom-activity": {
-    "sha": "dfc83c89d557b99348b7f3fffb9f90d7fb2f75ef",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-lab-book": {
-    "sha": "020f3ed69231c5673fea0cc4d2fa5cbf7a1eddcd",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
