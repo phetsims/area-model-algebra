@@ -15,8 +15,7 @@
     "phetLibs": [
       "area-model-common",
       "twixt",
-      "vegas",
-      "vibe"
+      "vegas"
     ],
     "runnable": true,
     "supportedBrands": [
