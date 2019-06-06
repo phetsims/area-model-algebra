@@ -1,12 +1,12 @@
 {
-  "comment": "# area-model-algebra 1.2.0-rc.1 Thu Jun 06 2019 10:20:27 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.2.0-rc.2 Thu Jun 06 2019 10:26:35 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "8249cbf2375c5fd11d07aaeac7ad0481af04b8f8",
+    "sha": "e416f1cb3aac14fcdb68e29ed95691d535ff4511",
     "branch": "1.2"
   },
   "area-model-common": {
     "sha": "ff303dd2b916fc5c4840cb2bb2fee62281e89b17",
-    "branch": "area-model-algebra-1.2"
+    "branch": "HEAD"
   },
   "assert": {
     "sha": "d8a2e8992420327ff72a6fc4bb93ec76549ded0e",
@@ -90,6 +90,6 @@
   },
   "vegas": {
     "sha": "074f414102e94adbcbddb7a5b099c1a2aff5c0fd",
-    "branch": "area-model-algebra-1.2"
+    "branch": "HEAD"
   }
 }
