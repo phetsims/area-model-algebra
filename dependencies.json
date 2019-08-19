@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.0-rc.3 Fri Jul 26 2019 12:39:53 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.2.0-rc.3 Mon Aug 19 2019 12:23:21 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "72c9264d12dd6bccdb1a6238025c0d9f5fe939ea",
+    "sha": "3ca82c3e47d35a6c1e9754295e4d1eab6cf5c718",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "450d68d35d3da43d1530d76fc6dc038d135d3dde",
-    "branch": "HEAD"
+    "sha": "8be71553f798af1138e30f83d32bf5912520a59a",
+    "branch": "area-model-algebra-1.2"
   },
   "kite": {
     "sha": "eced67f365a308d08dc5277a27765726f5fe79eb",
@@ -50,7 +50,7 @@
   },
   "phetcommon": {
     "sha": "53a083a887046e226d5577d314f042f4119a7eca",
-    "branch": "area-model-algebra-1.2"
+    "branch": "HEAD"
   },
   "phetmarks": {
     "sha": "01cbbd71ad4ca7d29bf68de518e0d3215acf3528",
@@ -61,12 +61,12 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "8ce157dcb57fd2122e2e335a6cf6bde1168435ef",
-    "branch": "HEAD"
+    "sha": "57e7ff9f19f783bb004980cfebd1c0053818afff",
+    "branch": "area-model-algebra-1.2"
   },
   "scenery-phet": {
-    "sha": "835393c43779b61a68da46bc742a4b2f8259c706",
-    "branch": "HEAD"
+    "sha": "38ec061a5ea269c5a58b7dbf271a6e2ff38c53f5",
+    "branch": "area-model-algebra-1.2"
   },
   "sherpa": {
     "sha": "16758e7eb83b686d49afc912e4056b68f05376a1",
