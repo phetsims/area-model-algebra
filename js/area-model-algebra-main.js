@@ -19,7 +19,7 @@ define( require => {
   // strings
   const areaModelAlgebraTitleString = require( 'string!AREA_MODEL_ALGEBRA/area-model-algebra.title' );
 
-  var simOptions = {
+  const simOptions = {
     credits: {
       leadDesign: 'Amy Hanson, Amanda McGarry',
       softwareDevelopment: 'Jonathan Olson',
@@ -31,7 +31,7 @@ define( require => {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelAlgebraTitleString, [
+    const sim = new Sim( areaModelAlgebraTitleString, [
       new ExploreScreen(),
       new GenericScreen(),
       new VariablesScreen(),
