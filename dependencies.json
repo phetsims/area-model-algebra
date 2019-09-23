@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.0-rc.4 Mon Sep 09 2019 10:49:03 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.2.0-rc.4 Mon Sep 23 2019 14:19:33 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "427c38211e9a4fe19076d70492bdfdea8f217421",
+    "sha": "d712a1c50175b2abe4b03220ad3283269ee841f1",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -30,7 +30,7 @@
   },
   "joist": {
     "sha": "147f35b35efa594378d603dc6c68f68c75e6bfc4",
-    "branch": "area-model-algebra-1.2"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "eced67f365a308d08dc5277a27765726f5fe79eb",
@@ -61,8 +61,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "57e7ff9f19f783bb004980cfebd1c0053818afff",
-    "branch": "HEAD"
+    "sha": "237cca6d3e9d15a1d8a1473f3ba0897f35b115aa",
+    "branch": "area-model-algebra-1.2"
   },
   "scenery-phet": {
     "sha": "38ec061a5ea269c5a58b7dbf271a6e2ff38c53f5",
