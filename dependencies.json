@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.0.11 Tue Oct 15 2019 12:13:04 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.0.12-rc.1 Tue Oct 15 2019 16:58:22 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "e2572ea0b4ae301b539cf53dae61eb1b376881b9",
+    "sha": "d3836f5d357dff3bed51b62c9c705509b7a1fb36",
     "branch": "1.0"
   },
   "area-model-common": {
@@ -38,7 +38,7 @@
   },
   "phet-core": {
     "sha": "e1f17e93f564a702026d19626b3b57a706990ee5",
-    "branch": "area-model-algebra-1.0"
+    "branch": "HEAD"
   },
   "phet-io": {
     "sha": "3a9c8ba87a85d5605c63c406454a45322eb145fb",
