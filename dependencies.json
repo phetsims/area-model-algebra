@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.0-rc.4 Tue Oct 15 2019 12:14:38 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.2.0-rc.4 Fri Oct 18 2019 15:40:56 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "10fc2dfe615b88ff2fab9d1a4ff9e03246c72a4f",
+    "sha": "dfee3abb47d2288033df44c69dcde03ab4f329ba",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -38,7 +38,7 @@
   },
   "phet-core": {
     "sha": "00a095c24154b17910a8f583bc17cd2fea97cf10",
-    "branch": "area-model-algebra-1.2"
+    "branch": "HEAD"
   },
   "phet-io": {
     "sha": "781c86ab3d4cf355869891a07049a002b16e946e",
@@ -77,8 +77,8 @@
     "branch": "HEAD"
   },
   "tambo": {
-    "sha": "4ee7a5f1ace53a5caf43ef2a0a548c779a847fb6",
-    "branch": "HEAD"
+    "sha": "2c39df9c4c46f5a6b1f5fd2b970188ba248017f3",
+    "branch": "area-model-algebra-1.2"
   },
   "tandem": {
     "sha": "548feba743e8b59a278edea4c99fa4966e403463",
