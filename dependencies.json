@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.1-rc.1 Mon Feb 24 2020 14:43:30 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-algebra 1.2.1 Tue Feb 25 2020 00:42:06 GMT-0700 (Mountain Standard Time)",
   "area-model-algebra": {
-    "sha": "7d015d66dcaa9cd233e0da3f22218f197a6e66f7",
+    "sha": "8353f6b2513795db30b2d4fa02a3a076b925c4a3",
     "branch": "1.2"
   },
   "area-model-common": {
