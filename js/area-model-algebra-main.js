@@ -12,7 +12,7 @@ import VariablesGameScreen from '../../area-model-common/js/screens/VariablesGam
 import VariablesScreen from '../../area-model-common/js/screens/VariablesScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
-import areaModelAlgebraStrings from './area-model-algebra-strings.js';
+import areaModelAlgebraStrings from './areaModelAlgebraStrings.js';
 
 const areaModelAlgebraTitleString = areaModelAlgebraStrings[ 'area-model-algebra' ].title;
 
