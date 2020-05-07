@@ -11,7 +11,7 @@ import GenericScreen from '../../area-model-common/js/screens/GenericScreen.js';
 import VariablesGameScreen from '../../area-model-common/js/screens/VariablesGameScreen.js';
 import VariablesScreen from '../../area-model-common/js/screens/VariablesScreen.js';
 import Sim from '../../joist/js/Sim.js';
-import SimLauncher from '../../joist/js/SimLauncher.js';
+import simLauncher from '../../joist/js/simLauncher.js';
 import areaModelAlgebraStrings from './areaModelAlgebraStrings.js';
 
 const areaModelAlgebraTitleString = areaModelAlgebraStrings[ 'area-model-algebra' ].title;
@@ -26,7 +26,7 @@ const simOptions = {
   }
 };
 
-SimLauncher.launch( function() {
+simLauncher.launch( function() {
   const sim = new Sim( areaModelAlgebraTitleString, [
     new ExploreScreen(),
     new GenericScreen(),
