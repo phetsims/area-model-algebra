@@ -26,7 +26,7 @@ const simOptions = {
   }
 };
 
-simLauncher.launch( function() {
+simLauncher.launch( () => {
   const sim = new Sim( areaModelAlgebraTitleString, [
     new ExploreScreen(),
     new GenericScreen(),
