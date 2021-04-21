@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.1 Mon Mar 08 2021 11:45:59 GMT-0500 (Eastern Standard Time)",
+  "comment": "# area-model-algebra 1.2.1 Wed Apr 21 2021 16:48:54 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "89440d709c4bf6de7fc7f284f4e4519c2b357985",
+    "sha": "25f7e0de5b5fe6c0e7a68c1e3651e3871a48c4f8",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -54,15 +54,15 @@
   },
   "phetmarks": {
     "sha": "8942314e2cc78c45246515636f0916add1e34563",
-    "branch": "area-model-algebra-1.2"
+    "branch": "HEAD"
   },
   "query-string-machine": {
     "sha": "d1e4a8e6eca6c5061c0ae482548d3332a20004b9",
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "237cca6d3e9d15a1d8a1473f3ba0897f35b115aa",
-    "branch": "HEAD"
+    "sha": "425923b10754e1fec8b05976ae1f25e96f7ec0d7",
+    "branch": "area-model-algebra-1.2"
   },
   "scenery-phet": {
     "sha": "38ec061a5ea269c5a58b7dbf271a6e2ff38c53f5",
