@@ -22,7 +22,7 @@
       "phet",
       "adapted-from-phet"
     ],
-    "features":{
+    "features": {
       "supportsSound": true
     },
     "simulation": true
