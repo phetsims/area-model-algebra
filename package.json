@@ -10,7 +10,6 @@
     "grunt": "~1.4.0"
   },
   "phet": {
-    "colorProfile": true,
     "requirejsNamespace": "AREA_MODEL_ALGEBRA",
     "phetLibs": [
       "area-model-common",
