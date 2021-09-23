@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.2.3-rc.1 Tue Sep 14 2021 12:44:15 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.2.3 Wed Sep 22 2021 20:22:35 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "62c8ef7d7b913bf21e3b3f0d9c65719f5d3a9f01",
+    "sha": "7ca4970a06f2325f068b373fdb99697caa6a426a",
     "branch": "1.2"
   },
   "area-model-common": {
