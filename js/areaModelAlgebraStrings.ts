@@ -3,11 +3,17 @@
 /**
  * Auto-generated from modulify, DO NOT manually modify.
  */
-
+/* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
 import areaModelAlgebra from './areaModelAlgebra.js';
 
-const areaModelAlgebraStrings = getStringModule( 'AREA_MODEL_ALGEBRA' );
+type StringsType = {
+  'area-model-algebra': {
+    'title': string
+  }
+};
+
+const areaModelAlgebraStrings = getStringModule( 'AREA_MODEL_ALGEBRA' ) as StringsType;
 
 areaModelAlgebra.register( 'areaModelAlgebraStrings', areaModelAlgebraStrings );
 
