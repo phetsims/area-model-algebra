@@ -11,7 +11,7 @@ import areaModelAlgebra from './areaModelAlgebra.js';
 type StringsType = {
   'area-model-algebra': {
     'title': string;
-    'titleProperty': TReadOnlyProperty<string>;
+    'titleStringProperty': TReadOnlyProperty<string>;
   }
 };
 
