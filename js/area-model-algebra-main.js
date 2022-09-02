@@ -14,7 +14,7 @@ import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import areaModelAlgebraStrings from './areaModelAlgebraStrings.js';
 
-const areaModelAlgebraTitleString = areaModelAlgebraStrings[ 'area-model-algebra' ].title;
+const areaModelAlgebraTitleStringProperty = areaModelAlgebraStrings[ 'area-model-algebra' ].titleStringProperty;
 
 const simOptions = {
   credits: {
@@ -27,7 +27,7 @@ const simOptions = {
 };
 
 simLauncher.launch( () => {
-  const sim = new Sim( areaModelAlgebraTitleString, [
+  const sim = new Sim( areaModelAlgebraTitleStringProperty, [
     new ExploreScreen(),
     new GenericScreen(),
     new VariablesScreen(),
