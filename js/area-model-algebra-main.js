@@ -12,9 +12,9 @@ import VariablesGameScreen from '../../area-model-common/js/screens/VariablesGam
 import VariablesScreen from '../../area-model-common/js/screens/VariablesScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
-import areaModelAlgebraStrings from './areaModelAlgebraStrings.js';
+import AreaModelAlgebraStrings from './AreaModelAlgebraStrings.js';
 
-const areaModelAlgebraTitleStringProperty = areaModelAlgebraStrings[ 'area-model-algebra' ].titleStringProperty;
+const areaModelAlgebraTitleStringProperty = AreaModelAlgebraStrings[ 'area-model-algebra' ].titleStringProperty;
 
 const simOptions = {
   credits: {

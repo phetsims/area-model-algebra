@@ -15,8 +15,8 @@ type StringsType = {
   }
 };
 
-const areaModelAlgebraStrings = getStringModule( 'AREA_MODEL_ALGEBRA' ) as StringsType;
+const AreaModelAlgebraStrings = getStringModule( 'AREA_MODEL_ALGEBRA' ) as StringsType;
 
-areaModelAlgebra.register( 'areaModelAlgebraStrings', areaModelAlgebraStrings );
+areaModelAlgebra.register( 'AreaModelAlgebraStrings', AreaModelAlgebraStrings );
 
-export default areaModelAlgebraStrings;
+export default AreaModelAlgebraStrings;
