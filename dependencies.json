@@ -1,7 +1,7 @@
 {
   "comment": "# area-model-algebra 1.2.3 Wed Sep 22 2021 20:22:35 GMT-0600 (Mountain Daylight Time)",
   "area-model-algebra": {
-    "sha": "f83b10461cc5da226583b33d5be67def57acc945",
+    "sha": "a37439bd6b347b6665d769f441cbfe709ab65a1c",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -61,7 +61,7 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "1f7144a54adee679bbd6ebb1a81d5cbd4967492d",
+    "sha": "fc0635b8208af269c3bf53d2c2c30615c10de981",
     "branch": "HEAD"
   },
   "scenery-phet": {
