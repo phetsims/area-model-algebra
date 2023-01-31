@@ -1,7 +1,7 @@
 {
   "comment": "# area-model-algebra 1.2.7 Wed Jan 18 2023 11:07:55 GMT-0700 (Mountain Standard Time)",
   "area-model-algebra": {
-    "sha": "1423882c787485ecf22d3830000fdf35d16d6c05",
+    "sha": "9a78023b4685681d0c1fe363b6d95dcb50b8e68a",
     "branch": "1.2"
   },
   "area-model-common": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "a22bfc6aea616618ac1bd72a829d68be296e1d2b",
+    "sha": "ec2cec8e2e13fe59af98689600ea31d965cad344",
     "branch": "HEAD"
   },
   "phetmarks": {
