@@ -22,7 +22,13 @@
       "phet",
       "adapted-from-phet"
     ],
-    "simulation": true
+    "simulation": true,
+    "screenNameKeys": [
+      "AREA_MODEL_COMMON/screen.explore",
+      "AREA_MODEL_COMMON/screen.generic",
+      "AREA_MODEL_COMMON/screen.variables",
+      "AREA_MODEL_COMMON/screen.game"
+    ]
   },
   "eslintConfig": {
     "extends": "../chipper/eslint/sim_eslintrc.js"
