@@ -22,7 +22,10 @@
       "adapted-from-phet"
     ],
     "simFeatures": {
-      "supportsSound": true
+      "supportsSound": true,
+      "supportedRegionsAndCultures": [
+        "usa"
+      ]
     },
     "simulation": true,
     "supportsOutputJS": true,
