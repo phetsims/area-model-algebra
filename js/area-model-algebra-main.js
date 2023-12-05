@@ -6,15 +6,15 @@
  * @author Jonathan Olson <jonathan.olson@colorado.edu>
  */
 
-import JugglerImages from '../../area-model-common/js/game/view/JugglerImages.js';
 import ExploreScreen from '../../area-model-common/js/screens/ExploreScreen.js';
 import GenericScreen from '../../area-model-common/js/screens/GenericScreen.js';
-import VariablesGameScreen from '../../area-model-common/js/screens/VariablesGameScreen.js';
 import VariablesScreen from '../../area-model-common/js/screens/VariablesScreen.js';
 import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import AreaModelAlgebraStrings from './AreaModelAlgebraStrings.js';
+import GameScreen from './game/GameScreen.js';
+import JugglerImages from './game/view/JugglerImages.js';
 
 const areaModelAlgebraTitleStringProperty = AreaModelAlgebraStrings[ 'area-model-algebra' ].titleStringProperty;
 
@@ -40,7 +40,7 @@ simLauncher.launch( () => {
     new ExploreScreen(),
     new GenericScreen(),
     new VariablesScreen(),
-    new VariablesGameScreen( preferencesModel )
+    new GameScreen( preferencesModel )
   ], simOptions );
   sim.start();
 } );
