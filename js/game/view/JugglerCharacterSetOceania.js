@@ -11,7 +11,7 @@ import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { OCEANIA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
 import variablesGameScreenIcon_png from '../../../mipmaps/oceania/variablesGameScreenIcon_png.js';
 import level1Icon_png from '../../../mipmaps/oceania/level1Icon_png.js';
-import level2Icon_png from '../../../mipmaps/oceania/level2Icon_png.js';
+import level2Icon_png from '../../../mipmaps/usa/level2Icon_png.js';
 import level3Icon_png from '../../../mipmaps/oceania/level3Icon_png.js';
 import level4Icon_png from '../../../mipmaps/oceania/level4Icon_png.js';
 import level5Icon_png from '../../../mipmaps/oceania/level5Icon_png.js';
