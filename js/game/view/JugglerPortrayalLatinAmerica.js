@@ -16,11 +16,11 @@ import level3Icon_png from '../../../mipmaps/latin-america/level3Icon_png.js';
 import level4Icon_png from '../../../mipmaps/latin-america/level4Icon_png.js';
 import level5Icon_png from '../../../mipmaps/latin-america/level5Icon_png.js';
 import level6Icon_png from '../../../mipmaps/latin-america/level6Icon_png.js';
-import JugglerCharacterSet from '../../../../area-model-common/js/game/view/JugglerCharacterSet.js';
+import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 
 const latinAmericaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmericaStringProperty;
 
-const JugglerCharacterSetLatinAmerica = new JugglerCharacterSet(
+const JugglerPortrayalLatinAmerica = new JugglerPortrayal(
   latinAmericaString,
   level1Icon_png,
   level2Icon_png,
@@ -32,4 +32,4 @@ const JugglerCharacterSetLatinAmerica = new JugglerCharacterSet(
   LATIN_AMERICA_REGION_AND_CULTURE_ID
 );
 
-export default JugglerCharacterSetLatinAmerica;
+export default JugglerPortrayalLatinAmerica;

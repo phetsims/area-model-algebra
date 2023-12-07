@@ -16,11 +16,11 @@ import level3Icon_png from '../../../mipmaps/africa/level3Icon_png.js';
 import level4Icon_png from '../../../mipmaps/africa-modest/level4Icon_png.js';
 import level5Icon_png from '../../../mipmaps/africa/level5Icon_png.js';
 import level6Icon_png from '../../../mipmaps/usa/level6Icon_png.js';
-import JugglerCharacterSet from '../../../../area-model-common/js/game/view/JugglerCharacterSet.js';
+import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 
 const africaModestString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.africaModestStringProperty;
 
-const JugglerCharacterSetAfricaModest = new JugglerCharacterSet(
+const JugglerPortrayalAfricaModest = new JugglerPortrayal(
   africaModestString,
   level1Icon_png,
   level2Icon_png,
@@ -32,4 +32,4 @@ const JugglerCharacterSetAfricaModest = new JugglerCharacterSet(
   AFRICA_MODEST_REGION_AND_CULTURE_ID
 );
 
-export default JugglerCharacterSetAfricaModest;
+export default JugglerPortrayalAfricaModest;

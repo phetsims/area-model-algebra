@@ -8,21 +8,21 @@
  */
 
 import areaModelAlgebra from '../../areaModelAlgebra.js';
-import JugglerCharacterSetAfrica from './JugglerCharacterSetAfrica.js';
-import JugglerCharacterSetAfricaModest from './JugglerCharacterSetAfricaModest.js';
-import JugglerCharacterSetAsia from './JugglerCharacterSetAsia.js';
-import JugglerCharacterSetLatinAmerica from './JugglerCharacterSetLatinAmerica.js';
-import JugglerCharacterSetOceania from './JugglerCharacterSetOceania.js';
-import JugglerCharacterSetUSA from './JugglerCharacterSetUSA.js';
+import JugglerPortrayalAfrica from './JugglerPortrayalAfrica.js';
+import JugglerPortrayalAfricaModest from './JugglerPortrayalAfricaModest.js';
+import JugglerPortrayalAsia from './JugglerPortrayalAsia.js';
+import JugglerPortrayalLatinAmerica from './JugglerPortrayalLatinAmerica.js';
+import JugglerPortrayalOceania from './JugglerPortrayalOceania.js';
+import JugglerPortrayalUSA from './JugglerPortrayalUSA.js';
 
 const JugglerImages = {
-  JUGGLER_CHARACTER_SETS: [
-    JugglerCharacterSetAfrica,
-    JugglerCharacterSetAfricaModest,
-    JugglerCharacterSetAsia,
-    JugglerCharacterSetLatinAmerica,
-    JugglerCharacterSetOceania,
-    JugglerCharacterSetUSA
+  JUGGLER_PORTRAYALS: [
+    JugglerPortrayalAfrica,
+    JugglerPortrayalAfricaModest,
+    JugglerPortrayalAsia,
+    JugglerPortrayalLatinAmerica,
+    JugglerPortrayalOceania,
+    JugglerPortrayalUSA
   ]
 };
 

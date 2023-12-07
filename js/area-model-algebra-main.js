@@ -20,7 +20,7 @@ const areaModelAlgebraTitleStringProperty = AreaModelAlgebraStrings[ 'area-model
 
 const preferencesModel = new PreferencesModel( {
   localizationOptions: {
-    characterSets: JugglerImages.JUGGLER_CHARACTER_SETS
+    characterSets: JugglerImages.JUGGLER_PORTRAYALS
   }
 } );
 

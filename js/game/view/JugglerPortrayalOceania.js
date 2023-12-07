@@ -16,11 +16,11 @@ import level3Icon_png from '../../../mipmaps/oceania/level3Icon_png.js';
 import level4Icon_png from '../../../mipmaps/oceania/level4Icon_png.js';
 import level5Icon_png from '../../../mipmaps/oceania/level5Icon_png.js';
 import level6Icon_png from '../../../mipmaps/oceania/level6Icon_png.js';
-import JugglerCharacterSet from '../../../../area-model-common/js/game/view/JugglerCharacterSet.js';
+import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 
 const oceaniaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.oceaniaStringProperty;
 
-const JugglerCharacterSetOceania = new JugglerCharacterSet(
+const JugglerPortrayalOceania = new JugglerPortrayal(
   oceaniaString,
   level1Icon_png,
   level2Icon_png,
@@ -32,4 +32,4 @@ const JugglerCharacterSetOceania = new JugglerCharacterSet(
   OCEANIA_REGION_AND_CULTURE_ID
 );
 
-export default JugglerCharacterSetOceania;
+export default JugglerPortrayalOceania;

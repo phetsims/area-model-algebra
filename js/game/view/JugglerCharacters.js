@@ -14,14 +14,14 @@ import { Image, Node } from '../../../../scenery/js/imports.js';
 import areaModelAlgebra from '../../areaModelAlgebra.js';
 import JugglerImages from './JugglerImages.js';
 
-export default class JugglerController {
+export default class JugglerCharacters {
   /**
    *
    * @param { GameAreaModel } sceneModel
    */
   constructor( sceneModel ) {
 
-    const jugglerSets = JugglerImages.JUGGLER_CHARACTER_SETS;
+    const jugglerSets = JugglerImages.JUGGLER_PORTRAYALS;
     const regionAndCulturePortrayalProperty = sceneModel.regionAndCulturePortrayalProperty;
 
     const createVisibleProperty = set => {
@@ -70,4 +70,4 @@ export default class JugglerController {
   }
 }
 
-areaModelAlgebra.register( 'JugglerController', JugglerController );
+areaModelAlgebra.register( 'JugglerCharacters', JugglerCharacters );

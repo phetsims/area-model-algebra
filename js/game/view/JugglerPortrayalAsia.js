@@ -16,11 +16,11 @@ import level3Icon_png from '../../../mipmaps/asia/level3Icon_png.js';
 import level4Icon_png from '../../../mipmaps/asia/level4Icon_png.js';
 import level5Icon_png from '../../../mipmaps/asia/level5Icon_png.js';
 import level6Icon_png from '../../../mipmaps/asia/level6Icon_png.js';
-import JugglerCharacterSet from '../../../../area-model-common/js/game/view/JugglerCharacterSet.js';
+import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 
 const asiaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.asiaStringProperty;
 
-const JugglerCharacterSetAsia = new JugglerCharacterSet(
+const JugglerPortrayalAsia = new JugglerPortrayal(
   asiaString,
   level1Icon_png,
   level2Icon_png,
@@ -32,4 +32,4 @@ const JugglerCharacterSetAsia = new JugglerCharacterSet(
   ASIA_REGION_AND_CULTURE_ID
 );
 
-export default JugglerCharacterSetAsia;
+export default JugglerPortrayalAsia;
