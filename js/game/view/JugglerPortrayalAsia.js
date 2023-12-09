@@ -10,24 +10,24 @@
 import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { ASIA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
 import variablesGameScreenIcon_png from '../../../mipmaps/asia/variablesGameScreenIcon_png.js';
-import level1Icon_png from '../../../mipmaps/asia/level1Icon_png.js';
-import level2Icon_png from '../../../mipmaps/usa/level2Icon_png.js';
-import level3Icon_png from '../../../mipmaps/asia/level3Icon_png.js';
-import level4Icon_png from '../../../mipmaps/asia/level4Icon_png.js';
-import level5Icon_png from '../../../mipmaps/asia/level5Icon_png.js';
-import level6Icon_png from '../../../mipmaps/asia/level6Icon_png.js';
+import level1Icon_svg from '../../../images/asia/level1Icon_svg.js';
+import level2Icon_svg from '../../../images/usa/level2Icon_svg.js';
+import level3Icon_svg from '../../../images/asia/level3Icon_svg.js';
+import level4Icon_svg from '../../../images/asia/level4Icon_svg.js';
+import level5Icon_svg from '../../../images/asia/level5Icon_svg.js';
+import level6Icon_svg from '../../../images/asia/level6Icon_svg.js';
 import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 
 const asiaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.asiaStringProperty;
 
 const JugglerPortrayalAsia = new JugglerPortrayal(
   asiaString,
-  level1Icon_png,
-  level2Icon_png,
-  level3Icon_png,
-  level4Icon_png,
-  level5Icon_png,
-  level6Icon_png,
+  level1Icon_svg,
+  level2Icon_svg,
+  level3Icon_svg,
+  level4Icon_svg,
+  level5Icon_svg,
+  level6Icon_svg,
   variablesGameScreenIcon_png,
   ASIA_REGION_AND_CULTURE_ID
 );
