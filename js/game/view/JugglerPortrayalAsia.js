@@ -9,7 +9,7 @@
 
 import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { ASIA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
-import variablesGameScreenIcon_png from '../../../mipmaps/asia/variablesGameScreenIcon_png.js';
+import variablesGameScreenIcon_svg from '../../../images/asia/variablesGameScreenIcon_svg.js';
 import level1Icon_svg from '../../../images/asia/level1Icon_svg.js';
 import level2Icon_svg from '../../../images/usa/level2Icon_svg.js';
 import level3Icon_svg from '../../../images/asia/level3Icon_svg.js';
@@ -28,7 +28,7 @@ const JugglerPortrayalAsia = new JugglerPortrayal(
   level4Icon_svg,
   level5Icon_svg,
   level6Icon_svg,
-  variablesGameScreenIcon_png,
+  variablesGameScreenIcon_svg,
   ASIA_REGION_AND_CULTURE_ID
 );
 
