@@ -8,6 +8,7 @@
 
 import VariablesGameScreen from '../../../area-model-common/js/screens/VariablesGameScreen.js';
 import areaModelAlgebra from '../areaModelAlgebra.js';
+import AreaModelAlgebraQueryParameters from '../AreaModelAlgebraQueryParameters.js';
 import JugglerImages from '../game/view/JugglerImages.js';
 import JugglerCharacters from './view/JugglerCharacters.js';
 
@@ -20,7 +21,8 @@ class GameScreen extends VariablesGameScreen {
   constructor( preferencesModel ) {
 
     super( preferencesModel, JugglerImages.JUGGLER_PORTRAYALS,
-        gameAreaModel => new JugglerCharacters( gameAreaModel ) );
+      gameAreaModel => new JugglerCharacters( gameAreaModel ),
+      AreaModelAlgebraQueryParameters.gameLevels );
   }
 }
 
