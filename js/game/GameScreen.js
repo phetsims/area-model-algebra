@@ -1,4 +1,4 @@
-// Copyright 2023, University of Colorado Boulder
+// Copyright 2023-2024, University of Colorado Boulder
 
 /**
  * Extends the "Game" screen in Area Model Algebra, serves to pass in the JugglerImages.
