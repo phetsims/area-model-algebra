@@ -1,7 +1,7 @@
 {
   "comment": "# area-model-algebra 1.3.0-rc.2 Mon Feb 26 2024 11:50:12 GMT-0700 (Mountain Standard Time)",
   "area-model-algebra": {
-    "sha": "03cdf9449b83d9fa66c866b638f3611cfe707fc3",
+    "sha": "553aec2e3c4be2da68c82d88aec3c1470d85ae2e",
     "branch": "1.3"
   },
   "area-model-common": {
@@ -85,7 +85,7 @@
     "branch": "HEAD"
   },
   "sun": {
-    "sha": "9b38ec1876b0196851f97d4a602eb648715e3177",
+    "sha": "4c152114154f8f1c5c540b99f313fc8a0916eb9f",
     "branch": "HEAD"
   },
   "tambo": {
