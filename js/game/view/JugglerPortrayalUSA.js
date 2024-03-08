@@ -7,28 +7,28 @@
  *
  */
 
+import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { USA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
-import variablesGameScreenIcon_svg from '../../../images/usa/variablesGameScreenIcon_svg.js';
-import level1Icon_svg from '../../../images/usa/level1Icon_svg.js';
-import level2Icon_svg from '../../../images/usa/level2Icon_svg.js';
-import level3Icon_svg from '../../../images/usa/level3Icon_svg.js';
-import level4Icon_svg from '../../../images/usa/level4Icon_svg.js';
-import level5Icon_svg from '../../../images/usa/level5Icon_svg.js';
-import level6Icon_svg from '../../../images/usa/level6Icon_svg.js';
-import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
+import usaLevel1Icon_svg from '../../../images/localized/usaLevel1Icon_svg.js';
+import usaLevel2Icon_svg from '../../../images/localized/usaLevel2Icon_svg.js';
+import usaLevel3Icon_svg from '../../../images/localized/usaLevel3Icon_svg.js';
+import usaLevel4Icon_svg from '../../../images/localized/usaLevel4Icon_svg.js';
+import usaLevel5Icon_svg from '../../../images/localized/usaLevel5Icon_svg.js';
+import usaLevel6Icon_svg from '../../../images/localized/usaLevel6Icon_svg.js';
+import usaVariablesGameScreenIcon_svg from '../../../images/localized/usaVariablesGameScreenIcon_svg.js';
 
 const unitedStatesOfAmericaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.unitedStatesOfAmericaStringProperty;
 
 const JugglerPortrayalUSA = new JugglerPortrayal(
   unitedStatesOfAmericaString,
-  level1Icon_svg,
-  level2Icon_svg,
-  level3Icon_svg,
-  level4Icon_svg,
-  level5Icon_svg,
-  level6Icon_svg,
-  variablesGameScreenIcon_svg,
+  usaLevel1Icon_svg,
+  usaLevel2Icon_svg,
+  usaLevel3Icon_svg,
+  usaLevel4Icon_svg,
+  usaLevel5Icon_svg,
+  usaLevel6Icon_svg,
+  usaVariablesGameScreenIcon_svg,
   USA_REGION_AND_CULTURE_ID
 );
 

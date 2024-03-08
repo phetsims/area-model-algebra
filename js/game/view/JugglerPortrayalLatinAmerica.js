@@ -7,28 +7,28 @@
  *
  */
 
+import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { LATIN_AMERICA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
-import variablesGameScreenIcon_svg from '../../../images/latin-america/variablesGameScreenIcon_svg.js';
-import level1Icon_svg from '../../../images/latin-america/level1Icon_svg.js';
-import level2Icon_svg from '../../../images/latin-america/level2Icon_svg.js';
-import level3Icon_svg from '../../../images/latin-america/level3Icon_svg.js';
-import level4Icon_svg from '../../../images/latin-america/level4Icon_svg.js';
-import level5Icon_svg from '../../../images/latin-america/level5Icon_svg.js';
-import level6Icon_svg from '../../../images/latin-america/level6Icon_svg.js';
-import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
+import latinAmericaLevel1Icon_svg from '../../../images/localized/latinAmericaLevel1Icon_svg.js';
+import latinAmericaLevel2Icon_svg from '../../../images/localized/latinAmericaLevel2Icon_svg.js';
+import latinAmericaLevel3Icon_svg from '../../../images/localized/latinAmericaLevel3Icon_svg.js';
+import latinAmericaLevel4Icon_svg from '../../../images/localized/latinAmericaLevel4Icon_svg.js';
+import latinAmericaLevel5Icon_svg from '../../../images/localized/latinAmericaLevel5Icon_svg.js';
+import latinAmericaLevel6Icon_svg from '../../../images/localized/latinAmericaLevel6Icon_svg.js';
+import latinAmericaVariablesGameScreenIcon_svg from '../../../images/localized/latinAmericaVariablesGameScreenIcon_svg.js';
 
 const latinAmericaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.latinAmericaStringProperty;
 
 const JugglerPortrayalLatinAmerica = new JugglerPortrayal(
   latinAmericaString,
-  level1Icon_svg,
-  level2Icon_svg,
-  level3Icon_svg,
-  level4Icon_svg,
-  level5Icon_svg,
-  level6Icon_svg,
-  variablesGameScreenIcon_svg,
+  latinAmericaLevel1Icon_svg,
+  latinAmericaLevel2Icon_svg,
+  latinAmericaLevel3Icon_svg,
+  latinAmericaLevel4Icon_svg,
+  latinAmericaLevel5Icon_svg,
+  latinAmericaLevel6Icon_svg,
+  latinAmericaVariablesGameScreenIcon_svg,
   LATIN_AMERICA_REGION_AND_CULTURE_ID
 );
 
