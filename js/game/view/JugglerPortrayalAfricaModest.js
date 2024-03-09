@@ -10,13 +10,13 @@
 import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { AFRICA_MODEST_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
-import africaLevel3Icon_svg from '../../../images/localized/africaLevel3Icon_svg.js';
-import africaLevel5Icon_svg from '../../../images/localized/africaLevel5Icon_svg.js';
-import africaModestLevel2Icon_svg from '../../../images/localized/africaModestLevel2Icon_svg.js';
-import africaModestLevel4Icon_svg from '../../../images/localized/africaModestLevel4Icon_svg.js';
-import africaModestVariablesGameScreenIcon_svg from '../../../images/localized/africaModestVariablesGameScreenIcon_svg.js';
-import usaLevel1Icon_svg from '../../../images/localized/usaLevel1Icon_svg.js';
-import usaLevel6Icon_svg from '../../../images/localized/usaLevel6Icon_svg.js';
+import africaLevel3Icon_svg from '../../../images/africa/africaLevel3Icon_svg.js';
+import africaLevel5Icon_svg from '../../../images/africa/africaLevel5Icon_svg.js';
+import africaModestLevel2Icon_svg from '../../../images/africaModest/africaModestLevel2Icon_svg.js';
+import africaModestLevel4Icon_svg from '../../../images/africaModest/africaModestLevel4Icon_svg.js';
+import africaModestVariablesGameScreenIcon_svg from '../../../images/africaModest/africaModestVariablesGameScreenIcon_svg.js';
+import usaLevel1Icon_svg from '../../../images/usa/usaLevel1Icon_svg.js';
+import usaLevel6Icon_svg from '../../../images/usa/usaLevel6Icon_svg.js';
 
 const africaModestString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.africaModestStringProperty;
 

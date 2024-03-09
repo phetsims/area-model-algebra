@@ -10,13 +10,13 @@
 import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
 import JoistStrings from '../../../../joist/js/JoistStrings.js';
 import { ASIA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
-import asiaLevel1Icon_svg from '../../../images/localized/asiaLevel1Icon_svg.js';
-import asiaLevel3Icon_svg from '../../../images/localized/asiaLevel3Icon_svg.js';
-import asiaLevel4Icon_svg from '../../../images/localized/asiaLevel4Icon_svg.js';
-import asiaLevel5Icon_svg from '../../../images/localized/asiaLevel5Icon_svg.js';
-import asiaLevel6Icon_svg from '../../../images/localized/asiaLevel6Icon_svg.js';
-import asiaVariablesGameScreenIcon_svg from '../../../images/localized/asiaVariablesGameScreenIcon_svg.js';
-import usaLevel2Icon_svg from '../../../images/localized/usaLevel2Icon_svg.js';
+import asiaLevel1Icon_svg from '../../../images/asia/asiaLevel1Icon_svg.js';
+import asiaLevel3Icon_svg from '../../../images/asia/asiaLevel3Icon_svg.js';
+import asiaLevel4Icon_svg from '../../../images/asia/asiaLevel4Icon_svg.js';
+import asiaLevel5Icon_svg from '../../../images/asia/asiaLevel5Icon_svg.js';
+import asiaLevel6Icon_svg from '../../../images/asia/asiaLevel6Icon_svg.js';
+import asiaVariablesGameScreenIcon_svg from '../../../images/asia/asiaVariablesGameScreenIcon_svg.js';
+import usaLevel2Icon_svg from '../../../images/usa/usaLevel2Icon_svg.js';
 
 const asiaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.asiaStringProperty;
 
