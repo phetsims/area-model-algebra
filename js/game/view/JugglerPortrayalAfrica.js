@@ -8,8 +8,6 @@
  */
 
 import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
-import JoistStrings from '../../../../joist/js/JoistStrings.js';
-import { AFRICA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
 import africaLevel2Icon_svg from '../../../images/africa/africaLevel2Icon_svg.js';
 import africaLevel3Icon_svg from '../../../images/africa/africaLevel3Icon_svg.js';
 import africaLevel4Icon_svg from '../../../images/africa/africaLevel4Icon_svg.js';
@@ -18,18 +16,15 @@ import africaVariablesGameScreenIcon_svg from '../../../images/africa/africaVari
 import usaLevel1Icon_svg from '../../../images/usa/usaLevel1Icon_svg.js';
 import usaLevel6Icon_svg from '../../../images/usa/usaLevel6Icon_svg.js';
 
-const africaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.africaStringProperty;
-
 const JugglerPortrayalAfrica = new JugglerPortrayal(
-  africaString,
+  'africa',
   usaLevel1Icon_svg,
   africaLevel2Icon_svg,
   africaLevel3Icon_svg,
   africaLevel4Icon_svg,
   africaLevel5Icon_svg,
   usaLevel6Icon_svg,
-  africaVariablesGameScreenIcon_svg,
-  AFRICA_REGION_AND_CULTURE_ID
+  africaVariablesGameScreenIcon_svg
 );
 
 export default JugglerPortrayalAfrica;

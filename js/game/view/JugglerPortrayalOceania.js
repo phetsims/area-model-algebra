@@ -8,8 +8,6 @@
  */
 
 import JugglerPortrayal from '../../../../area-model-common/js/game/view/JugglerPortrayal.js';
-import JoistStrings from '../../../../joist/js/JoistStrings.js';
-import { OCEANIA_REGION_AND_CULTURE_ID } from '../../../../joist/js/preferences/RegionAndCulturePortrayal.js';
 import oceaniaLevel1Icon_svg from '../../../images/oceania/oceaniaLevel1Icon_svg.js';
 import oceaniaLevel3Icon_svg from '../../../images/oceania/oceaniaLevel3Icon_svg.js';
 import oceaniaLevel4Icon_svg from '../../../images/oceania/oceaniaLevel4Icon_svg.js';
@@ -18,18 +16,15 @@ import oceaniaLevel6Icon_svg from '../../../images/oceania/oceaniaLevel6Icon_svg
 import oceaniaVariablesGameScreenIcon_svg from '../../../images/oceania/oceaniaVariablesGameScreenIcon_svg.js';
 import usaLevel2Icon_svg from '../../../images/usa/usaLevel2Icon_svg.js';
 
-const oceaniaString = JoistStrings.preferences.tabs.localization.regionAndCulture.portrayalSets.oceaniaStringProperty;
-
 const JugglerPortrayalOceania = new JugglerPortrayal(
-  oceaniaString,
+  'oceania',
   oceaniaLevel1Icon_svg,
   usaLevel2Icon_svg,
   oceaniaLevel3Icon_svg,
   oceaniaLevel4Icon_svg,
   oceaniaLevel5Icon_svg,
   oceaniaLevel6Icon_svg,
-  oceaniaVariablesGameScreenIcon_svg,
-  OCEANIA_REGION_AND_CULTURE_ID
+  oceaniaVariablesGameScreenIcon_svg
 );
 
 export default JugglerPortrayalOceania;
