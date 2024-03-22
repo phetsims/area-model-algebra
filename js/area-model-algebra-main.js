@@ -44,4 +44,3 @@ simLauncher.launch( () => {
   ], simOptions );
   sim.start();
 } );
-
