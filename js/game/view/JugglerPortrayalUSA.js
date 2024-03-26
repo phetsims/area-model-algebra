@@ -14,7 +14,7 @@ import usaLevel3Icon_svg from '../../../images/usa/usaLevel3Icon_svg.js';
 import usaLevel4Icon_svg from '../../../images/usa/usaLevel4Icon_svg.js';
 import usaLevel5Icon_svg from '../../../images/usa/usaLevel5Icon_svg.js';
 import usaLevel6Icon_svg from '../../../images/usa/usaLevel6Icon_svg.js';
-import usaVariablesGameScreenIcon_svg from '../../../images/usa/usaVariablesGameScreenIcon_svg.js';
+import usaGameHomeScreenIcon_svg from '../../../images/usa/usaGameHomeScreenIcon_svg.js';
 
 const JugglerPortrayalUSA = new JugglerPortrayal(
   'usa',
@@ -24,7 +24,7 @@ const JugglerPortrayalUSA = new JugglerPortrayal(
   usaLevel4Icon_svg,
   usaLevel5Icon_svg,
   usaLevel6Icon_svg,
-  usaVariablesGameScreenIcon_svg
+  usaGameHomeScreenIcon_svg
 );
 
 export default JugglerPortrayalUSA;

@@ -12,7 +12,7 @@ import africaLevel3Icon_svg from '../../../images/africa/africaLevel3Icon_svg.js
 import africaLevel5Icon_svg from '../../../images/africa/africaLevel5Icon_svg.js';
 import africaModestLevel2Icon_svg from '../../../images/africaModest/africaModestLevel2Icon_svg.js';
 import africaModestLevel4Icon_svg from '../../../images/africaModest/africaModestLevel4Icon_svg.js';
-import africaModestVariablesGameScreenIcon_svg from '../../../images/africaModest/africaModestVariablesGameScreenIcon_svg.js';
+import africaModestGameHomeScreenIcon_svg from '../../../images/africaModest/africaModestGameHomeScreenIcon_svg.js';
 import usaLevel1Icon_svg from '../../../images/usa/usaLevel1Icon_svg.js';
 import usaLevel6Icon_svg from '../../../images/usa/usaLevel6Icon_svg.js';
 
@@ -24,7 +24,7 @@ const JugglerPortrayalAfricaModest = new JugglerPortrayal(
   africaModestLevel4Icon_svg,
   africaLevel5Icon_svg,
   usaLevel6Icon_svg,
-  africaModestVariablesGameScreenIcon_svg
+  africaModestGameHomeScreenIcon_svg
 );
 
 export default JugglerPortrayalAfricaModest;
