@@ -14,12 +14,11 @@ import AreaModelAlgebraQueryParameters from '../AreaModelAlgebraQueryParameters.
 class GameScreen extends VariablesGameScreen {
 
   /**
-   * @param { PreferencesModel } preferencesModel
    * @public
    */
-  constructor( preferencesModel ) {
+  constructor() {
 
-    super( preferencesModel, AreaModelAlgebraImages.gameHomeScreenIconImageProperty,
+    super( AreaModelAlgebraImages.gameHomeScreenIconImageProperty,
       [
         AreaModelAlgebraImages.level1ImageProperty,
         AreaModelAlgebraImages.level2ImageProperty,
