@@ -18,7 +18,7 @@ class GameScreen extends VariablesGameScreen {
    */
   constructor() {
 
-    super( AreaModelAlgebraImages.gameHomeScreenIconImageProperty,
+    super( AreaModelAlgebraImages.variablesGameScreenIconImageProperty,
       [
         AreaModelAlgebraImages.level1ImageProperty,
         AreaModelAlgebraImages.level2ImageProperty,
