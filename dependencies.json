@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.3.3 Fri Jul 12 2024 15:33:30 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-algebra 1.3.4-rc.2 Tue Jul 16 2024 16:02:13 GMT-0400 (Eastern Daylight Time)",
   "area-model-algebra": {
-    "sha": "e96d2a01f10c0ea4f485d9e2dca8634bcbea8105",
+    "sha": "ff42dd7eaf6c318e8dcaa5bd43b68ffb9067996e",
     "branch": "1.3"
   },
   "area-model-common": {
