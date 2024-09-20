@@ -51,7 +51,7 @@
         ],
         "parserOptions": {
           "project": [
-            "../area-model-algebra/tsconfig.json"
+            "../chipper/tsconfig/eslint-all/tsconfig.json"
           ]
         }
       }
