@@ -5,7 +5,6 @@
  */
 /* eslint-disable */
 import LocalizedImageProperty from '../../joist/js/i18n/LocalizedImageProperty.js';
-import areaModelAlgebra from './areaModelAlgebra.js';
 import africaLevel2Icon_svg from '../images/africa/africaLevel2Icon_svg.js';
 import africaLevel3Icon_svg from '../images/africa/africaLevel3Icon_svg.js';
 import africaLevel4Icon_svg from '../images/africa/africaLevel4Icon_svg.js';
@@ -40,6 +39,7 @@ import usaLevel4Icon_svg from '../images/usa/usaLevel4Icon_svg.js';
 import usaLevel5Icon_svg from '../images/usa/usaLevel5Icon_svg.js';
 import usaLevel6Icon_svg from '../images/usa/usaLevel6Icon_svg.js';
 import usaVariablesGameScreenIcon_svg from '../images/usa/usaVariablesGameScreenIcon_svg.js';
+import areaModelAlgebra from './areaModelAlgebra.js';
 
 const AreaModelAlgebraImages = {
   level1ImageProperty: new LocalizedImageProperty( 'level1', {
