@@ -41,8 +41,5 @@
       "AREA_MODEL_COMMON/screen.variables",
       "AREA_MODEL_COMMON/screen.game"
     ]
-  },
-  "eslintConfig": {
-    "extends": "../chipper/eslint/sim_eslintrc.js"
   }
 }
