@@ -13,7 +13,6 @@ import areaModelAlgebra from './areaModelAlgebra.js';
 
 type StringsType = {
   'area-model-algebra': {
-    'title': string;
     'titleStringProperty': LocalizedStringProperty;
   }
 };

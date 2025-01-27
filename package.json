@@ -30,7 +30,8 @@
         "asia",
         "latinAmerica",
         "oceania"
-      ]
+      ],
+      "supportsDynamicLocale": true
     },
     "simulation": true,
     "supportsOutputJS": true,
