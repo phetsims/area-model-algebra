@@ -1,7 +1,7 @@
 {
-  "comment": "# area-model-algebra 1.3.7-rc.1 Mon Feb 02 2026 14:50:28 GMT-0500 (Eastern Standard Time)",
+  "comment": "# area-model-algebra 1.3.7 Fri Feb 06 2026 13:16:31 GMT-0500 (Eastern Standard Time)",
   "area-model-algebra": {
-    "sha": "42802b2bfa9966e57d500a990a47b41a003192d7",
+    "sha": "f0be99e1eb6e89fcbb5a566c07ab928ff74bc6cf",
     "branch": "1.3"
   },
   "area-model-common": {
