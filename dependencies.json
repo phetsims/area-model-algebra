@@ -1,7 +1,7 @@
 {
   "comment": "# area-model-algebra 1.3.7 Fri Feb 06 2026 13:16:31 GMT-0500 (Eastern Standard Time)",
   "area-model-algebra": {
-    "sha": "812fbda6c9bc7421ced1843ea979fe4266a0b373",
+    "sha": "3202ae6eb0120ef861bd97a9bf5b0687a5aac9c7",
     "branch": "1.3"
   },
   "area-model-common": {
@@ -37,7 +37,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "c737f1dc069921cfaf1bc11244c41e9ee1976d60",
+    "sha": "a6aa0726f8c6c4b0bfa7d666f152bd43c1098ba3",
     "branch": "HEAD"
   },
   "phet-core": {
