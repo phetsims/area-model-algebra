@@ -7,7 +7,6 @@
  */
 
 import VariablesGameScreen from '../../../area-model-common/js/screens/VariablesGameScreen.js';
-import areaModelAlgebra from '../areaModelAlgebra.js';
 import AreaModelAlgebraImages from '../AreaModelAlgebraImages.js';
 import AreaModelAlgebraQueryParameters from '../AreaModelAlgebraQueryParameters.js';
 
@@ -31,5 +30,4 @@ class GameScreen extends VariablesGameScreen {
   }
 }
 
-areaModelAlgebra.register( 'GameScreen', GameScreen );
 export default GameScreen;

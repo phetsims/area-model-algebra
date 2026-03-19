@@ -101,6 +101,4 @@ const AreaModelAlgebraImages = {
   } )
 };
 
-areaModelAlgebra.register( 'AreaModelAlgebraImages', AreaModelAlgebraImages );
-
 export default AreaModelAlgebraImages;
