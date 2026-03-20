@@ -19,4 +19,6 @@ type StringsType = {
 
 const AreaModelAlgebraStrings = getStringModule( 'AREA_MODEL_ALGEBRA' ) as StringsType;
 
+areaModelAlgebra.register( 'AreaModelAlgebraStrings', AreaModelAlgebraStrings );
+
 export default AreaModelAlgebraStrings;
